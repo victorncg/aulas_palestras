@@ -1,6 +1,6 @@
 # Aulas & Palestras
 
-![](https://img.shields.io/github/commit-activity/w/victorncg/aulas_palestrasstyle=flat)
+![](https://img.shields.io/github/commit-activity/w/victorncg/aulas_palestras?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/victorncg/aulas_palestras)
 
 Repositório criado para armazenar códigos desenvolvidos em aulas e palestras
