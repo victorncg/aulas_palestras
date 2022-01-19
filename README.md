@@ -13,7 +13,7 @@ Repositório criado para armazenar códigos desenvolvidos em aulas e palestras
 
 Insper Jr
 
-05/07/21 - Análise do setor de petfood
+1. Análise do setor de petfood - 05/07/21
 
 IBMEC
 
