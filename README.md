@@ -9,9 +9,10 @@ Repositório criado para armazenar códigos desenvolvidos em aulas e palestras
 > ESTE REPOSITÓRIO ESTÁ EM CONSTRUÇÃO
 
 2021
-1. Insper Jr - Análise do setor de petfood - 05/07/21
-2. Ibmec - 18/08/21 - Análise de risco/retorno + Comparação de carteira ([20210818](https://github.com/victorncg/aulas_palestras/blob/main/20210818_C%C3%B3digo_Ibmec.ipynb]))
-3. EBAC - Comparação de carteiras com o IBOV
+1. Estatidados - Análise de Ações com R - 11/05/21
+2. Insper Jr - Análise do setor de petfood - 05/07/21
+3. Ibmec - 18/08/21 - Análise de risco/retorno + Comparação de carteira ([20210818](https://github.com/victorncg/aulas_palestras/blob/main/20210818_C%C3%B3digo_Ibmec.ipynb]))
+4. EBAC - Comparação de carteiras com o IBOV
 
 
 2022
