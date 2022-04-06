@@ -17,5 +17,7 @@ Repositório criado para armazenar códigos desenvolvidos em aulas e palestras
 
 2022
 1. Insper Jr - 18/01/22 - Análise do setor de marketing (varejo) ([20220118](https://github.com/victorncg/aulas_palestras/blob/main/20220118%20-%20Aula%20-%20Insper%20Jr%20-%20Case%20Marketing.ipynb))
+2. Insper Jr - 24/03-22 - Aula prática sobre webscraping
+3. Liga de Mercado Financeiro da UFU - 25/03-22 - Comparação de carteiras (código pendente)
 
 
